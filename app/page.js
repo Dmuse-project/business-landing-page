@@ -65,7 +65,7 @@ export default function Home() {
         </h1>
         <p>
           Photon Code Innovations helps solar businesses turn ads into
-          predictable customers — not wasted leads.
+          predictable customers, not wasted leads.
         </p>
 
         <a
